@@ -15,6 +15,7 @@ submitted fixes (wipe times):
 16146090647 - Beginner - fixed oob
 16145961137 - Chimera - fixed oob
 16279647725 - Andromeda - fixed oob, patched rock surf/hop at start
+14139570305 - Autumn - fixed oob
 
 tested, pending upload:
 submitted fixes (no wipe):
@@ -23,6 +24,8 @@ submitted fixes (no wipe):
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
+16127842262 - Golden Glory - Fixed ramps finally
+14502969054 - Desolate - Redone ramps to be smooth
 
 tested, pending upload & add map data:
 11760638857 - Water Park - Hitbox was too big to fit through a hole
