@@ -14,7 +14,7 @@ submitted fixes (wipe times):
 10077886389 - Submerged - Fixed gap in wall used in route. - Was the gap intentional?
 16146090647 - Beginner - fixed oob
 16145961137 - Chimera - fixed oob
-14357374923 - Andromeda - fixed oob, patched rock surf/hop at start
+16279647725 - Andromeda - fixed oob, patched rock surf/hop at start
 
 tested, pending upload:
 submitted fixes (no wipe):
