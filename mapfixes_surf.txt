@@ -3,6 +3,7 @@ uncategorized:
 11225546578 - Around The Round - fixed start
 11226695678 - Trikz Cloud - added SetVel
 11234923029 - Mane Six - anti tele traps player
+16146146096 - Poly_Mount - fixed being able to stand above anti-tele
 
 upload but don't add to game:
 
@@ -11,9 +12,14 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
 10077886389 - Submerged - Fixed gap in wall used in route. - Was the gap intentional?
+16146090647 - Beginner - fixed oob
+16145961137 - Chimera - fixed oob
+14357374923 - Andromeda - fixed oob, patched rock surf/hop at start
 
 tested, pending upload:
 submitted fixes (no wipe):
+16169077606 - Underworld - fixed spines & closer to (0,0,0)
+16145757351 - Startup - fixed spines & donut ramps
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
