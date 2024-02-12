@@ -1,8 +1,4 @@
 uncategorized:
-11224975215 - Slime Map Pile - added SetVel
-11225546578 - Around The Round - fixed start
-11226695678 - Trikz Cloud - added SetVel
-11234923029 - Mane Six - anti tele traps player
 16146146096 - Poly_Mount - fixed being able to stand above anti-tele
 
 upload but don't add to game:
@@ -10,8 +6,6 @@ upload but don't add to game:
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
-10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
-10077886389 - Submerged - Fixed gap in wall used in route. - Was the gap intentional?
 16146090647 - Beginner - fixed oob
 16145961137 - Chimera - fixed oob
 16279647725 - Andromeda - fixed oob, patched rock surf/hop at start
@@ -23,23 +17,13 @@ submitted fixes (no wipe):
 16145757351 - Startup - fixed spines & donut ramps
 
 add map data:
-10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 16127842262 - Golden Glory - Fixed ramps finally
 14502969054 - Desolate - Redone ramps to be smooth
 
 tested, pending upload & add map data:
-11760638857 - Water Park - Hitbox was too big to fit through a hole
 
 submitted fixes need add map data:
-10375338147 - Elementary - switched b3 to b1
-569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 
 rejected fixes, additional fix notes:
-852889271 - Golden Glory - ramp fix - fall through ramp???
-770953991 - Halloween - ramp fix - spines still bad, candy corn stage is unnecessarily hard due to the hitbox, some ramps kill you
-10066332884 - O-oh hi-i t-there, J-J-Jill - spawn is buggy, bumpy ramps, especially 2nd ramp
-621876510 - Space Jam - idk - there is already a great fix published
-10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
-459306841 - Winterland - ramp fix - needs more fixes, still bumpy ramps
 
 unsorted fixes:
